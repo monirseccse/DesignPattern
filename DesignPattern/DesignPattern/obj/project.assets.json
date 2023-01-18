@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Asp.net-B7\\DesignPattern\\DesignPattern\\Adapter.csproj",
+      "projectUniqueName": "E:\\DesignPattern\\DesignPattern\\DesignPattern\\Adapter.csproj",
       "projectName": "Adapter",
-      "projectPath": "E:\\Asp.net-B7\\DesignPattern\\DesignPattern\\Adapter.csproj",
+      "projectPath": "E:\\DesignPattern\\DesignPattern\\DesignPattern\\Adapter.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\Asp.net-B7\\DesignPattern\\DesignPattern\\obj\\",
+      "outputPath": "E:\\DesignPattern\\DesignPattern\\DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Asp.net-B7\\DesignPattern\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\Asp.net-B7\\DesignPattern\\Infrastructure\\Infrastructure.csproj"
+            "E:\\DesignPattern\\DesignPattern\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "E:\\DesignPattern\\DesignPattern\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PFBUhaqId1qFc9ikhJCDUUmHTSplQQU1Gz7e/wgO4Y0pa0rL7NL4QpL+v8ocRoWjbtMMcvuOhAI2Qn1CqV0h0A==",
+  "dgSpecHash": "j333ciievvL0KCU50YiWNPG8XOIefAodnmek7+8RjmX3rKEqCvHN1YVJ5g8nmBCukMaAfr1KIfiL5h/KL32Pfw==",
   "success": true,
-  "projectFilePath": "E:\\Asp.net-B7\\DesignPattern\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\DesignPattern\\DesignPattern\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

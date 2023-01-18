@@ -7,14 +7,13 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-    public class EmployeeAdapter : ITarget
+    public class EmployeeAdapter : ThirdPartyBillingSystem,ITarget
     {
         public int Id { get; set; }
         public string Name { get; set; }
         public string Designation { get; set; }
         public decimal Salary { get; set; }
-
-        ThirdPartyBillingSystem billingSystem =new ThirdPartyBillingSystem();
+       
         List<Employee> employees =new List<Employee>();
 
         public void ProcessSalary(string[,] employeelist)
@@ -38,7 +37,7 @@ namespace Adapter
                 employees.Add(employee);
             }
 
-            billingSystem.ProcessSalary(employees);
+            base.ProcessSalary(employees);
         }
     }
 }

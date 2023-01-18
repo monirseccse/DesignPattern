@@ -10,3 +10,15 @@ E:\Asp.net-B7\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
 E:\Asp.net-B7\DesignPattern\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 E:\Asp.net-B7\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 E:\Asp.net-B7\DesignPattern\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\DesignPattern\DesignPattern\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\DesignPattern\DesignPattern\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\DesignPattern\DesignPattern\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+E:\DesignPattern\DesignPattern\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

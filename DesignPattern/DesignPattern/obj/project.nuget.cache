@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fOZ2zQl8kWWUEkY5Y8mGzb2faJJ4Rc36B1viT7mg649CYlribTSzp8jikjVgrXsRXBv+aeZ5oILOeoNgesD69w==",
+  "dgSpecHash": "OSwsdeD71z5GMyULg4tyZZaDnKiiqkrag05dlzwnBSM9MbmypJw8EW80lJ+DKQWg0/96qqv2Dv10g3Ep9Aceww==",
   "success": true,
-  "projectFilePath": "E:\\Asp.net-B7\\DesignPattern\\DesignPattern\\Adapter.csproj",
+  "projectFilePath": "E:\\DesignPattern\\DesignPattern\\DesignPattern\\Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
