@@ -1,4 +1,11 @@
 ﻿using Adapter;
+using Microsoft.Extensions.DependencyInjection;
+
+//setup our DI
+var serviceProvider = new ServiceCollection()
+    .AddSingleton<ISalaryCreate, EmployeeAdapter>()
+    .AddSingleton<EmployeeSalaryCreate>()
+    .BuildServiceProvider();
 
 string[,] employeesArray = new string[5, 4]
           {
@@ -9,5 +16,5 @@ string[,] employeesArray = new string[5, 4]
                 {"105","Sara","SSE","50000"}
           };
 
-ITarget employeeAdapter =new EmployeeAdapter();
-employeeAdapter.ProcessSalary(employeesArray);
+var salaryCreate=serviceProvider.GetService<EmployeeSalaryCreate>();
+salaryCreate.ProcessSalary(employeesArray);

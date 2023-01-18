@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OSwsdeD71z5GMyULg4tyZZaDnKiiqkrag05dlzwnBSM9MbmypJw8EW80lJ+DKQWg0/96qqv2Dv10g3Ep9Aceww==",
+  "dgSpecHash": "jcGk+7aASCZyQwJwL3bYJWdY/tWra2HGCRr7oNlFHhUnxjyQ9z2Tr63ac5NCymhMMMZZacigT59sWxCIEgOCeg==",
   "success": true,
   "projectFilePath": "E:\\DesignPattern\\DesignPattern\\DesignPattern\\Adapter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

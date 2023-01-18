@@ -1,6 +1,6 @@
 ﻿namespace Adapter
 {
-    public interface ITarget
+    public interface ISalaryCreate
     {
         void ProcessSalary(string[,] employeelist);
     }

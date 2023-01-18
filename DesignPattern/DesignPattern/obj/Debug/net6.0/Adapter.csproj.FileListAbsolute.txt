@@ -34,3 +34,5 @@ E:\DesignPattern\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\Adapter.dll
 E:\DesignPattern\DesignPattern\DesignPattern\obj\Debug\net6.0\Adapter.pdb
 E:\DesignPattern\DesignPattern\DesignPattern\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
 E:\DesignPattern\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\Adapter.dll
+E:\DesignPattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DesignPattern\DesignPattern\DesignPattern\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

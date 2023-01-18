@@ -1,20 +1,15 @@
 ﻿using Infrastructure;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Adapter
 {
-    public class EmployeeAdapter : ThirdPartyBillingSystem,ITarget
+    public class EmployeeAdapter : ISalaryCreate
     {
         public int Id { get; set; }
         public string Name { get; set; }
         public string Designation { get; set; }
         public decimal Salary { get; set; }
-       
-        List<Employee> employees =new List<Employee>();
+
+        List<Employee> employees = new List<Employee>();
 
         public void ProcessSalary(string[,] employeelist)
         {
@@ -31,13 +26,13 @@ namespace Adapter
                     else if (j == 2)
                         employee.Designation = employeelist[i, j];
                     else if (j == 3)
-                        employee.Salary = Convert.ToDecimal(employeelist[i,j]);
-                   
+                        employee.Salary = Convert.ToDecimal(employeelist[i, j]);
+
                 }
                 employees.Add(employee);
             }
 
-            base.ProcessSalary(employees);
+            ThirdPartyBillingSystem.ProcessSalary(employees);
         }
     }
 }

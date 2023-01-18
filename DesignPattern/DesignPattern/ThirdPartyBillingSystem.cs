@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-    public class ThirdPartyBillingSystem
+    public static class ThirdPartyBillingSystem
     {
-        public void ProcessSalary(List<Employee> listEmployee)
+        public static void ProcessSalary(List<Employee> listEmployee)
         {
             foreach (Employee employee in listEmployee)
             {
