@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "DesignPattern\Adapter.csproj", "{F7B0837C-B0EE-458B-AA9F-4EF71E3EB43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "DesignPattern\Adapter.csproj", "{F7B0837C-B0EE-458B-AA9F-4EF71E3EB43B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2A8CFABC-A69A-426C-8579-773C4B28E575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2A8CFABC-A69A-426C-8579-773C4B28E575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{D0D3EFEB-52D2-4A99-86A9-69CAF4F16633}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2A8CFABC-A69A-426C-8579-773C4B28E575}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A8CFABC-A69A-426C-8579-773C4B28E575}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A8CFABC-A69A-426C-8579-773C4B28E575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D3EFEB-52D2-4A99-86A9-69CAF4F16633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D3EFEB-52D2-4A99-86A9-69CAF4F16633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D3EFEB-52D2-4A99-86A9-69CAF4F16633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D3EFEB-52D2-4A99-86A9-69CAF4F16633}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

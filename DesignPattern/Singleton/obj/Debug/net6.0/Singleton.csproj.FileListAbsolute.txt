@@ -1,0 +1,15 @@
+E:\DesignPattern\DesignPattern\Singleton\bin\Debug\net6.0\Singleton.exe
+E:\DesignPattern\DesignPattern\Singleton\bin\Debug\net6.0\Singleton.deps.json
+E:\DesignPattern\DesignPattern\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+E:\DesignPattern\DesignPattern\Singleton\bin\Debug\net6.0\Singleton.dll
+E:\DesignPattern\DesignPattern\Singleton\bin\Debug\net6.0\Singleton.pdb
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\Singleton.dll
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\Singleton.pdb
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+E:\DesignPattern\DesignPattern\Singleton\obj\Debug\net6.0\ref\Singleton.dll
