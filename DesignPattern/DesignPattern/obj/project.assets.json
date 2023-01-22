@@ -36,16 +36,6 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
-      },
-      "Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Infrastructure.dll": {}
-        }
       }
     }
   },
@@ -107,16 +97,10 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../Infrastructure/Infrastructure.csproj",
-      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Infrastructure >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0"
     ]
   },
@@ -146,11 +130,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "E:\\DesignPattern\\DesignPattern\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\DesignPattern\\DesignPattern\\Infrastructure\\Infrastructure.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

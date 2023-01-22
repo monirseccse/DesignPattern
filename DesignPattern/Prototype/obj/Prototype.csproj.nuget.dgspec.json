@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DesignPattern\\DesignPattern\\DesignPattern\\Adapter.csproj": {}
+    "E:\\DesignPattern\\DesignPattern\\Prototype\\Prototype.csproj": {}
   },
   "projects": {
-    "E:\\DesignPattern\\DesignPattern\\DesignPattern\\Adapter.csproj": {
+    "E:\\DesignPattern\\DesignPattern\\Prototype\\Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DesignPattern\\DesignPattern\\DesignPattern\\Adapter.csproj",
-        "projectName": "Adapter",
-        "projectPath": "E:\\DesignPattern\\DesignPattern\\DesignPattern\\Adapter.csproj",
+        "projectUniqueName": "E:\\DesignPattern\\DesignPattern\\Prototype\\Prototype.csproj",
+        "projectName": "Prototype",
+        "projectPath": "E:\\DesignPattern\\DesignPattern\\Prototype\\Prototype.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\DesignPattern\\DesignPattern\\DesignPattern\\obj\\",
+        "outputPath": "E:\\DesignPattern\\DesignPattern\\Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
